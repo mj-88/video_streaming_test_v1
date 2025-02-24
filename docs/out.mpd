@@ -8,6 +8,7 @@
 	mediaPresentationDuration="PT2M43.0S"
 	maxSegmentDuration="PT1.0S"
 	minBufferTime="PT2.4S">
+	<BaseURL>https://mj-88.github.io/video_streaming_test_v1/</BaseURL>
 	<ProgramInformation>
 	</ProgramInformation>
 	<ServiceDescription id="0">
